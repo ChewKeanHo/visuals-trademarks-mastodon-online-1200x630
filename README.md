@@ -5,7 +5,7 @@
 The Mastodon Online platform Trademarks Logo. The Mastodon published a great
 guidelines and supplied great materials for how to deploy their trademarks.
 Since we use Mastodon Online (https://mastodon.online/), let's derive one for
-that server based on their guidelines is suffice.
+that server based on their guidelines.
 
 The preferred version is `.svg` which has non-destructive scale up & down
 properties and can be converted into any rasterized images (e.g. `jpeg`, `webp`,
@@ -151,11 +151,11 @@ Title: Mastodon Online Trademarks Logo 1200x630
 Creators: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
 SKU: chewkeanho-visuals-trademarks-mastodon-online-1200x630
-UUID: F2894A04-6A19-4CB8-83DA-CDE1F0231E2F
+UUID: 8AAC6F37-E89D-4D07-9177-80C9BEEE0D89
 License: Creative Commons Attribution-NoDerivatives 4.0 International License
 Made On: 2026-01-11
 Made From: Malaysia, South East Asia
-Procure: https://github.com/chewkeanho/visuals-trademarks-mastodon-1200x630
+Procure: https://github.com/chewkeanho/visuals-trademarks-mastodon-online-1200x630
 --------------------------------------------------------------------------------
 ```
 
